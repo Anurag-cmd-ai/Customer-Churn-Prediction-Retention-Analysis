@@ -1,4 +1,4 @@
-# AI-Assisted Customer Retention & Churn Analytics
+# Customer Churn and Retention Analytics
 
 Built an end-to-end customer churn analytics solution using Brazil's Olist e-commerce dataset (93K+ customers), combining customer segmentation, churn-risk prediction, and targeted retention strategies to identify at-risk customers, protect R$3M+ in revenue, and improve retention ROI.
 
