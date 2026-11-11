@@ -37,7 +37,7 @@ Built an end-to-end customer churn analytics solution using Brazil's Olist e-com
 │   └── 02_eda_and_segmentation.ipynb             EDA, RFM segmentation, K-Means clustering
 ├── model/
 │   └── 03_churn_model.ipynb                      churn model, retention strategy, export
-├── images/
+├── dashboard/
 │   ├── dashboard_1_retention_overview.png
 │   ├── dashboard_2_behavioural_clusters.png
 │   └── dashboard_3_segment_revenue_risk.png
