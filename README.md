@@ -1,6 +1,6 @@
 # Customer Churn and Retention Analysis
 
-Built an end-to-end customer churn analytics solution using Brazil's Olist e-commerce dataset (93K+ customers), combining customer segmentation, churn-risk prediction, and targeted retention strategies to identify at-risk customers, protect R$3M+ in revenue, and improve retention ROI.
+Built an end-to-end customer churn analytics solution using e-commerce dataset (93K+ customers), combining customer segmentation, churn-risk prediction, and targeted retention strategies to identify at-risk customers, protect R$3M+ in revenue, and improve retention ROI.
 
 ---
 <img width="2880" height="1620" alt="dashboard_1_overview" src="https://github.com/user-attachments/assets/ab6e1af2-4cdc-45c2-9000-cc311f992c8a" />
