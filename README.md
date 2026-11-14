@@ -15,7 +15,7 @@ Built an end-to-end customer churn and retention analytics project on 93K+ Olist
 
 ---
  
-# Scope
+## Scope
 - Data cleaning: merge the Olist tables, fix types and missing values, and build delivery, review and spend features
 - Exploratory analysis (EDA): orders, revenue, delivery performance and customer satisfaction trends
 - Customer segmentation: RFM scoring plus K-Means clustering (validated with Silhouette Score) to group customers by value and behaviour
@@ -64,7 +64,7 @@ Built an end-to-end customer churn and retention analytics project on 93K+ Olist
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 Data cleaning · Feature engineering · Exploratory analysis · RFM segmentation · K-Means clustering · Churn prediction (Logistic Regression) · Model evaluation · Retention strategy · Dashboard design · Business storytelling
 
