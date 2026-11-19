@@ -89,5 +89,6 @@ Full breakdown of segments, clusters, model results, the action matrix and recom
 <img width="2880" height="1620" alt="dashboard_5_model_actions" src="https://github.com/user-attachments/assets/2be75ca2-de22-4927-bc45-d47103c7d7fc" />
 
 ## Author
-Anurag Tiwari
+**Anurag Tiwari**
+*Linkedin*
 https://www.linkedin.com/in/anurag-tiwari-7a13743ba/
