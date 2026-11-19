@@ -2,8 +2,6 @@
 
 Built an end-to-end customer churn and retention analytics project on 93K+ Olist e-commerce customers, combining RFM and K-Means segmentation with a churn-risk model. Found that late delivery is the strongest churn signal, sized R$6.8M of R$15.4M revenue at risk, and mapped every customer to a targeted retention action, flagging 3,107 high-value customers for personal outreach.
 
-<img width="2880" height="1620" alt="dashboard_1_overview" src="https://github.com/user-attachments/assets/ab6e1af2-4cdc-45c2-9000-cc311f992c8a" />
-
 ---
 
 ## Objective
