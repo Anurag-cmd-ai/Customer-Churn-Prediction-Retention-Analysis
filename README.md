@@ -24,15 +24,14 @@ Built an end-to-end customer churn and retention analytics project on 93K+ Olist
 ---
 
 ## Tech Stack
-
-| Area | Tools |
-| --- | --- |
-| Language | Python 3.9+ |
-| Environment | Jupyter / Google Colab |
-| Data processing | Pandas, NumPy |
-| Machine learning | Scikit-learn (StandardScaler, KMeans, Silhouette Score, LogisticRegression, train/test split) |
-| Visualization | Matplotlib |
-| BI hand-off | Final CSV export, ready to load into Power BI or Tableau |
+| Tool | Used for |
+|---|---|
+| **Python 3.9+** | Core language |
+| Jupyter / Google Colab | Running the notebooks |
+| `Pandas`, `NumPy` | Data processing |
+| `Scikit-learn` | StandardScaler, KMeans, Silhouette Score, LogisticRegression, train/test split |
+| `Matplotlib` | Visualization |
+| CSV export | BI hand-off, ready to load into Power BI or Tableau |
 
 ---
 
